@@ -1,0 +1,17 @@
+.container{
+    width:480px;
+    background-color:white;
+    border: 1px;
+}
+
+.navbar-toggler{
+ color:#4AAAA5;
+
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777;
+    background: url(../imgs/concrete_seamless.png);
+}
